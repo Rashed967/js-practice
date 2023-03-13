@@ -70,7 +70,17 @@
 // console.log(result)
 
 
-7 . 
+// 7. Find the Factorial of a Number
+// const findFactorial = number =>{
+//     const result = (number < 0) ? `No factorial of number ${number}` : (number === 0) ? `the factorail of ${number} is 1` : ``;
+//     return result 
+// }
+
+// const result = findFactorial(10);
+// console.log(result)
+
+
+
 
 
 
